@@ -1,2 +1,2 @@
 # bigip
-various python scripts for big automation
+various python scripts for bigip automation
